@@ -13,14 +13,14 @@ This was created in order to improve the design of login and sign in pages in an
   
 ## Screenshots
 
-Main Fragment | Login Fragment
- --- | --- | 
-![](https://github.com/BerkErdgn/LoginScreen/blob/main/sc/loginScreen-1.png?raw=true)| ![](https://github.com/BerkErdgn/LoginScreen/blob/main/sc/loginScreen-2.png?raw=true) 
+Main Fragment | Login Fragment |Singin Fragment|
+ --- | --- |  --- | 
+![](https://github.com/BerkErdgn/LoginScreen/blob/main/sc/loginScreen-1.png?raw=true)| ![](https://github.com/BerkErdgn/LoginScreen/blob/main/sc/loginScreen-2.png?raw=true) |![](https://github.com/BerkErdgn/LoginScreen/blob/main/sc/loginScreen-3.png?raw=true)
 
 
-Singin Fragment|
- --- | 
-![](https://github.com/BerkErdgn/LoginScreen/blob/main/sc/loginScreen-3.png?raw=true)
+
+
+
 
 ## Download  
 
